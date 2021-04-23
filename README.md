@@ -5,4 +5,4 @@
 - 💬 Ask me about pretty much anything.
 - 📫 You can find me on LinkedIn too.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpolimenov)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpolimenov&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
