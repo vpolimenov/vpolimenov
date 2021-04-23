@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**vpolimenov/vpolimenov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working...
 - 🌱 I’m constantly learning.
 - 💬 Ask me about pretty much anything.
