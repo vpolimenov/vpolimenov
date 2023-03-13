@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/VnC"><img src="https://api.daily.dev/devcards/b9d4974182ed48599e23e22902567e24.png?r=rfs" width="400" alt="Ventsislav Polimenov's Dev Card"/></a>
+
 <!--
 - 🔭 I’m currently working...
 - 🌱 I’m constantly learning.
