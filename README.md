@@ -2,7 +2,7 @@
 
 I am working as a Principal Engineer in Data and AI. Coming from a Full Stack dev position working mainly with Django and Angular.
 <img align="right" alt="GIF" src="https://github.com/vpolimenov/vpolimenov/blob/main/coder.gif?raw=true" width="500" height="320" />
-<img align="right" alt="GIF" src="https://github.com/vpolimenov/vpolimenov/blob/main/doctor.gif?raw=true" width="500" height="320" />
+<!-- <img align="right" alt="GIF" src="https://github.com/vpolimenov/vpolimenov/blob/main/doctor.gif?raw=true" width="500" height="320" /> -->
 <h3>💻  Machine Learning and Data Science</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=ai,tensorflow,pytorch,py,r)](https://skillicons.dev)
