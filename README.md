@@ -17,7 +17,7 @@ I am working as a Principal Engineer in Data and AI
 
 <h3>🤖 DevOPS</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ansible,azure,docker,kubernetes,heroku,nginx,jenkins,grafana)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ansible,azure,docker,kubernetes,nginx,jenkins,grafana)](https://skillicons.dev)
 
 <h3>⚒️ Tools & others</h3>
 
